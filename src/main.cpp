@@ -6,16 +6,20 @@
 *It allows to store and manage detailed information
 *on books, films and movies collections.
 *
-*This is the main function.
-*Run the programme to start.
 *
-*Developed by: Jagoda Wojcik (C1835840)
+*Developed by: Jagoda Wojcik
 *Last modified: 11.05.2022
 */
 
 
-#include "coursework.h"
+#include "catalogue.h"
+#include "entry.h"
+#include "entry_classified.h"
+#include "music_album.h"
+#include "book.h"
+#include "film.h"
 
+#include <string>
 #include <iostream>
 #include <limits>
 
